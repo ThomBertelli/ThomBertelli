@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomBertelli
-- 👀 I’m interested in web development and software developemnte, also games and all the geek/nerd stuff.
+- 👀 I’m interested in web development and software development, also games and all the geek/nerd stuff.
 - 📫 How to reach me: bertellimendes@gmail.com
 
 <!---
