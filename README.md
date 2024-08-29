@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a full stack developer in training. I have knowledge of HTML5, CSS3, Javascript and SQL; ReactJS is also familiar to me. Additionally, my experience includes Java and Spring Boot as well.<br>I have more than a decade of experience in customer service and sales, with the drive to achieve goals, ensure satisfaction from customers—and constantly improve. <br>I’ve always been fascinated by technology, and since I was a child, I wanted to work in the field. In 2020, I began making progress towards this goal by studying software development through "The Odin Project" and taking various courses on Udemy. Currently, I am enrolled in the Certified Tech Developer program at Digital House Brazil.
+<br>.
 
 
 ## 🌐 Socials:
