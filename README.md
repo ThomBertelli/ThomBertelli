@@ -1,6 +1,14 @@
 # 💫 About Me:
-<br>.
+<br>
+👋 Hi, I'm Thomas, a passionate software developer in the making. 
 
+🚀 I'm currently on an exciting journey, transitioning from a successful career at the Brazilian Postal Service (Correios) into the world of software development. My background in customer service, operations, and team management has equipped me with strong problem-solving, communication, and organizational skills. 
+
+🌱 I'm eager to apply my newly acquired technical skills in Java, JavaScript, Vue.js, React, Spring Boot, and SQL to build innovative and user-friendly applications. I'm a fast learner and thrive in collaborative environments where I can contribute my ideas and learn from others. 
+
+🔭 I'm actively seeking opportunities to gain hands-on experience and contribute to meaningful projects. I'm particularly interested in web development and building robust back-end systems.
+
+📫 Let's connect! Feel free to reach out if you'd like to collaborate or discuss potential opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tbbm) 
